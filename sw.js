@@ -1,4 +1,4 @@
-const CACHE_NAME = 'suki-pwa-v4';
+const CACHE_NAME = 'suki-pwa-v5';
 const urlsToCache = [
   './',
   './index.html',
